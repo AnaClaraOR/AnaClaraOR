@@ -1,23 +1,17 @@
-Oi 👋 eu sou a Ana Clara!!!
+💜 Olá, meu nome é Ana Clara!!!
 ==================================
 
 Analista de Qualidade
 ---------------------
 
-<img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
-* 🌍  Eu sou do Brasil
-* 🖥️  Veja meu portfolio em [AnaClaraOR](http://github.com/AnaClaraOR)
-* ✉️  Você pode me contatar por [anaclaraor@outlook.com](mailto:anaclaraor@outlook.com)
-
-
-### 👋 Quem sou eu: 
-<div display="inline-block">
- <p align="left">💻 Sou formada em Sistemas de Informação e pós-graduação em MBA em Gerência de Projetos na Unichristus;</p>
- <p align="left">🧠 Tenho estudado automação de testes: Selenium e Cypress;</p>
- <p align="left">📚 E complemento os estudos com o reforço e melhoria nos conhecimentos adiquiridos ao longo da minha carreira;</p>
- <p align="left">🌍 Gosto muito de viajar, ler e de pets (apesar de ser alérgica).</p>
-</div>
+- 🎓 Sou formada em **Sistemas de Informação** e com **MBA em Gerência de Projetos** na Unichristus;
+- 🌍 Gosto muito de viajar, ler e de pets (apesar de ser alérgica);
+- 💼 Exercia a função de **Analista de Qualidade Pleno**, especializado em saúde suplementar na Salutis;
+- 🌱 Atualmente, tenho me dedicado aos estudos de automação de testes: **Selenium** e **Cypress**;
+- 🖥️ Veja meu portfolio no gitHub [AnaClaraOR](https://github.com/AnaClaraOR?tab=repositories);
+- ✉️ Você pode me contatar por [anaclaraor@outlook.com](mailto:anaclaraor@outlook.com)
 
 
 ### 🖥️ Tecnologias e Ferramentas: 

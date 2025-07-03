@@ -1,4 +1,4 @@
-Hi 👋 eu sou a Ana Clara!!!
+Oi 👋 eu sou a Ana Clara!!!
 ==================================
 
 Analista de Qualidade
@@ -6,9 +6,9 @@ Analista de Qualidade
 
 <img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
-* 🌍  I'm based in Brasil
-* 🖥️  See my portfolio at [AnaClaraOR](http://github.com/AnaClaraOR)
-* ✉️  You can contact me at [anaclaraor@outlook.com](mailto:anaclaraor@outlook.com)
+* 🌍  Eu sou do Brasil
+* 🖥️  Veja meu portfolio em [AnaClaraOR](http://github.com/AnaClaraOR)
+* ✉️  Você pode me contatar por [anaclaraor@outlook.com](mailto:anaclaraor@outlook.com)
 
 
 ### 👋 Quem sou eu: 

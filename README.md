@@ -16,7 +16,7 @@ Analista de Qualidade
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
-[![My Skills](https://skillicons.dev/icons?i=cypress,gherkin,selenium,postman,py,pycharm,mysql,postgres,vscode,git,github,azure,linux,ubuntuwindows&perline=5)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=cypress,gherkin,selenium,postman,py,mysql,postgres,git,github,azure,linux,ubuntuwindows&perline=5)](https://skillicons.dev) 
 
 ### Me encontre
 
